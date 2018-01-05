@@ -61,7 +61,7 @@ I did not fight overfitting since my model gave me enough satisfaction. But I co
 
 As a result, I was able to use my model in the simulator and drive the car in autonomous mode ! Here is a small capture below of how the car handles itself in a turn :
 
-![alt text][simulator_gif]
+![alt text][video_gif]
 
 
 ## Final Thoughts
