@@ -1,0 +1,230 @@
+EntityID,Name,Description,CompanyCurrencyCode,CreateByUserID,CreateDate,ModifyByUserID,ModifyDate,LoadingDate,OTCRegionID,OTCRegionName,FinanceRegion,CompanyCountry,Entity_Sales_Market,Shared_Entity,Country_Name,Entity_FPA_Market
+0,N/A,N/A,USD,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Legacy - ignore,WW,Global,2,Global,Global
+1,3000,"Tesla Motors, Inc (USA)",USD,NULL,NULL,NULL,NULL,2018-01-03 04:22:06 +0000,1,US,NorthAmerica,US,North America,0,USA,North America
+2,2010,"Tesla Motors Australia, Pty Ltd.",AUD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,APAC,AU,APAC,0,Australia,Other APAC
+3,2020,Tesla Motors Japan GK,JPY,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,4,NONTILBURG,APAC,JP,APAC,0,Japan,Other APAC
+4,2030,Tesla Motors HK Limited,HKD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,4,NONTILBURG,APAC,HK,APAC,0,Hong Kong,Greater China
+5,3010,"Tesla Motors Leasing, Inc.",USD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,NorthAmerica,WW,Global,2,Global,Global
+6,3020,Tesla  Leasing Canada,CAD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,NorthAmerica,CA,North America,0,Canada,North America
+7,3050,"Tesla Motors, Inc.",USD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,NorthAmerica,WW,Global,2,Global,Global
+8,3500,Tesla Motors Canada ULC,CAD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,4,NONTILBURG,NorthAmerica,CA,North America,0,Canada,North America
+9,4000,Tesla Motors Limited,GBP,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,EU,WW,Global,2,Global,Global
+10,4010,Tesla Motors Ltd.,GBP,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,3,TILBURG,EU,GB,Europe,0,United Kingdom,EMEA
+11,4020,Tesla Motors GmbH,EUR,NULL,NULL,NULL,NULL,2018-01-03 04:22:06 +0000,3,TILBURG,EU,DE,Europe,0,Germany,EMEA
+12,4030,Tesla Motors S.a r.l.,EUR,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,EU,WW,Global,2,Global,Global
+13,4031,Tesla Motors France S.a r.l.,EUR,NULL,NULL,NULL,NULL,2018-01-03 04:22:06 +0000,3,TILBURG,EU,FR,Europe,0,France,EMEA
+14,4040,Tesla Motors Switzerland GmbH,CHF,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,4,NONTILBURG,Other EU,CH,Europe,0,Switzerland,EMEA
+15,4050,Tesla Motors Denmark ApS,DKK,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,3,TILBURG,EU,DK,Europe,0,Denmark,EMEA
+16,4060,Tesla Motors Italy S.r.L.,EUR,NULL,NULL,NULL,NULL,2018-01-03 04:22:06 +0000,3,TILBURG,EU,IT,Europe,0,Italy,EMEA
+17,4070,Tesla  Motors Norway AS,NOK,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,4,NONTILBURG,EU,NO,Europe,0,Norway,EMEA
+18,4080,Tesla Motors Netherlands B.V.,EUR,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,3,TILBURG,EU,NL,Europe,0,Netherlands,EMEA
+19,5000,Tesla Motors Taiwan Limit,TWD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,APAC,WW,Global,2,Global,Global
+20,9999,Eliminations,USD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,Elim entity,WW,Global,2,Global,Global
+21,CA10,"Tesla Motors, Inc.",USD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,Legacy - ignore,WW,Global,2,Global,Global
+22,JP10,"Tesla Motors, Inc.",USD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,Legacy - ignore,WW,Global,2,Global,Global
+23,US10,"Tesla Motors Leasing, Inc",USD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,Legacy - ignore,WW,Global,2,Global,Global
+24,4015,Tesla Motors Austria GmbH,EUR,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,3,TILBURG,EU,AT,Europe,0,Austria,EMEA
+25,4090,Tesla Motors Belgium SPRL,EUR,NULL,NULL,NULL,NULL,2018-01-03 04:22:06 +0000,3,TILBURG,EU,BE,Europe,0,Belgium,EMEA
+26,4025,TM Sweden AB,SEK,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,EU,SE,Europe,0,Sweden,EMEA
+29,2060,"Tesla Automobile Distribution (Beijing) Co., Ltd.",CNY,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,2,CHINA,APAC,CN,APAC,0,China,Greater China
+30,2040,Tesla Motors Singapore Private Limited,SGD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,APAC,WW,Global,2,Global,Global
+31,2041,Tesla Motors Singapore Holdings Pte. Ltd.,USD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,APAC,WW,Global,2,Global,Global
+32,2061,"Roadster Automobile Sales and Service (Beijing) Co., Ltd.",CNY,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,2,CHINA,APAC,CN,APAC,0,China,Greater China
+33,2062,"Tesla Automobile Sales and Services (Shanghai) Co., Ltd.",CNY,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,2,CHINA,APAC,CN,APAC,0,China,Greater China
+34,2063,"Tesla Automobile Sales and Service (Shenzhen) Co., Ltd.",CNY,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,2,CHINA,APAC,CN,APAC,0,China,Greater China
+35,3001,Tesla Finance LLC,USD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,NorthAmerica,US,North America,0,USA,North America
+36,3002,"Tesla Motors FL, Inc.",USD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,NorthAmerica,WW,Global,2,Global,Global
+37,3003,"Tesla Motors MA, Inc.",USD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,NorthAmerica,WW,Global,2,Global,Global
+38,3004,Tesla Motors New York LLC,USD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,NorthAmerica,WW,Global,2,Global,Global
+39,3005,"Tesla Motors NV, Inc.",USD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,NorthAmerica,WW,Global,2,Global,Global
+40,3006,"Tesla Motors PA, Inc.",USD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,NorthAmerica,WW,Global,2,Global,Global
+41,3007,"Tesla Motors TX, Inc.",USD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,NorthAmerica,WW,Global,2,Global,Global
+42,3008,"Northern Nevada Research Co., LLC",USD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,NorthAmerica,WW,Global,2,Global,Global
+43,4081,TMNL Fremont,USD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,EU,WW,Global,2,Global,Global
+44,4082,Tesla Motors Stichting,USD,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,EU,WW,Global,2,Global,Global
+45,4083,Tesla Motors Coöperatief U.A.,EUR,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,EU,WW,Global,2,Global,Global
+46,2064,"Tesla Automobile Sales and Service (Hangzhou) Co., Ltd.",CNY,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,2,CHINA,APAC,CN,APAC,0,China,Greater China
+47,2066,"Tesla Automobile Sales and Service (Chengdu) Co., Ltd.",CNY,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,APAC,CN,APAC,0,China,Greater China
+48,4045,Roadster Finland Oy,EUR,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,EU,FI,Europe,0,Finland,EMEA
+49,4055,Tesla Motors Luxembourg S.a r.l.,EUR,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,EU,LU,Europe,0,Luxembourg,EMEA
+50,4095,Tesla Financial Services Holdings B.V.,EUR,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,EU,NL,Europe,1,Netherlands,EMEA
+51,4096,Tesla Financial Services GmbH,EUR,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,EU,DE,Europe,1,Germany,EMEA
+52,2067,Tesla Motors Chongqing,CNY,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,APAC,CN,APAC,0,China,Greater China
+53,2068,"Tesla Automobile Sales and Service (Nanjing) Co., Ltd.",CNY,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,APAC,CN,APAC,0,China,Greater China
+54,2069,"Tesla Automobile Sales and Service (Wuhan) Co., Ltd.",CNY,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,APAC,CN,APAC,0,China,Greater China
+55,2070,"Tesla Automobile Sales and Service(Xi'an) Co., Ltd",CNY,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,APAC,CN,APAC,0,China,Greater China
+56,2071,Tesla Motors Xiamen,CNY,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,APAC,CN,APAC,0,China,Greater China
+57,2072,Tesla Motors Shenyang,CNY,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,APAC,CN,APAC,0,China,Greater China
+58,2073,Tesla Motors Tianjin,CNY,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,APAC,CN,APAC,0,China,Greater China
+59,2065,"TESLA AUTOMOBILE SALES AND SERVICE (GUANGZHOU) CO., LTD",CNY,NULL,NULL,NULL,NULL,2016-03-31 19:07:50 +0000,NULL,NULL,APAC,CN,APAC,0,China,Greater China
+60,2074,"Tesla Automobile Sales and Service (Beijing) Co.,Ltd",CNY,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,APAC,CN,APAC,0,China,Greater China
+61,4097,Tesla Financial Services UK,GBP,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,EU,GB,Europe,1,United Kingdom,EMEA
+62,9992,APAC eliminations entity,CNY,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+63,9994,EU eliminations entity,EUR,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,Elim entity,WW,Global,2,Global,Global
+64,2077,Tesla Energia Macau Limitada,MOP,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,Not Available,MO,APAC,0,Macau,Greater China
+65,2078,Tesla Korea Limited,KRW,NULL,NULL,NULL,NULL,2016-03-18 19:04:12 +0000,NULL,NULL,Not Available,KR,APAC,0,South Korea,Other APAC
+66,2079,Tesla Motors Taiwan Limited,TWD,NULL,NULL,NULL,NULL,2016-03-31 19:07:50 +0000,NULL,NULL,Not Available,TW,APAC,0,Taiwan,Greater China
+67,3090,"Tesla Automobiles Mexico, S. de R.L. de C.V.",MXN,NULL,NULL,NULL,NULL,2018-01-03 04:22:06 +0000,NULL,NULL,Not Available,MX,North America,0,Mexico,North America
+68,4065,Tesla Motors Sales and Service LLC - Turkey,TRY,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,Not Available,TR,Europe,0,Turkey,EMEA
+69,4085,Tesla International B.V.,EUR,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,Not Available,NL,Europe,1,Netherlands,EMEA
+70,2707,Tesla Energia Macau Limitada HKD,HKD,NULL,NULL,NULL,NULL,2016-05-26 10:21:18 +0000,NULL,NULL,Not Available,MO,APAC,0,Macau,Greater China
+71,4075,Tesla Motors Ireland Ltd.,EUR,NULL,NULL,NULL,NULL,2016-07-13 19:11:43 +0000,NULL,NULL,Not Available,IE,Europe,0,Ireland,EMEA
+72,2015,Tesla New Zealand ULC,NZD,NULL,NULL,NULL,NULL,2016-10-17 19:40:38 +0000,NULL,NULL,Not Available,NZ,APAC,0,New Zealand,Other APAC
+73,5005,Tesla Jordan Car Trading LLC,JOD,NULL,NULL,NULL,NULL,2016-09-23 19:32:18 +0000,NULL,NULL,Not Available,JO,Europe,0,Jordan,EMEA
+74,4035,"Tesla Spain, S.L. Unipersonal",EUR,NULL,NULL,NULL,NULL,2016-10-20 19:32:50 +0000,NULL,NULL,Not Available,ES,Europe,0,Spain,EMEA
+75,4036,"Tesla Portugal, Sociedade Unipessoal LDA",EUR,NULL,NULL,NULL,NULL,2016-12-27 19:05:36 +0000,NULL,NULL,Not Available,PT,Europe,0,Portugal,EMEA
+76,9998,Canada Eliminations Entity,CAD,NULL,NULL,NULL,NULL,2017-01-11 19:06:25 +0000,NULL,NULL,Not Available,CA,North America,0,Canada,North America
+77,4078,Tesla Motors Netherlands BV (Dubai Branch) 1,AED,NULL,NULL,NULL,NULL,2017-02-10 04:05:51 +0000,NULL,NULL,Not Available,AE,Europe,0,Utd. Arab Emir.,EMEA
+78,2080,Tesla Changsha,CNY,NULL,NULL,NULL,NULL,2017-11-17 14:19:15 +0000,NULL,NULL,Not Available,CN,APAC,0,China,Greater China
+79,3015,Tesla Solar,USD,NULL,NULL,NULL,NULL,2018-01-03 04:22:06 +0000,NULL,NULL,Not Available,US,North America,0,USA,North America
+80,2031,Silevo - Hong Kong,USD,NULL,NULL,NULL,NULL,2017-11-17 14:19:15 +0000,NULL,NULL,Not Available,HK,APAC,0,Hong Kong,Greater China
+81,2058,Silevo - China,USD,NULL,NULL,NULL,NULL,2018-01-03 04:22:06 +0000,NULL,NULL,Not Available,CN,APAC,0,China,Greater China
+82,4005,Silevo - Germany,USD,NULL,NULL,NULL,NULL,2017-11-17 14:19:15 +0000,NULL,NULL,Not Available,DE,Europe,1,Germany,EMEA
+83,9991,Silevo Elims,USD,NULL,NULL,NULL,NULL,2017-11-17 14:19:15 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+84,2011,Zep - Solar Australia,AUD,NULL,NULL,NULL,NULL,2017-11-17 14:19:15 +0000,NULL,NULL,Not Available,AU,APAC,0,Australia,Other APAC
+85,2057,Zep - Solar China,CNY,NULL,NULL,NULL,NULL,2017-11-17 14:19:15 +0000,NULL,NULL,Not Available,CN,APAC,0,China,Greater China
+86,2032,Zep - Solar Hong Kong,CNY,NULL,NULL,NULL,NULL,2017-11-17 14:19:15 +0000,NULL,NULL,Not Available,HK,APAC,0,Hong Kong,Greater China
+87,4006,Zep - Solar UK,GBP,NULL,NULL,NULL,NULL,2017-11-17 14:19:15 +0000,NULL,NULL,Not Available,GB,Europe,1,United Kingdom,EMEA
+88,4092,Tesla Motors Netherlands BV (Slovenia branch),EUR,NULL,NULL,NULL,NULL,2017-06-29 04:07:38 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+89,4087,Tesla Motors Netherlands BV (South Africa Branch),ZAR,NULL,NULL,NULL,NULL,2017-06-29 04:07:38 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+90,4088,Tesla Motors Netherlands BV (Czech Republic branch),CZK,NULL,NULL,NULL,NULL,2017-06-29 04:07:38 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+91,4093,Tesla Motors Netherlands BV (Slovakia branch),EUR,NULL,NULL,NULL,NULL,2017-06-29 04:07:38 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+92,4094,Tesla Motors Netherlands BV (Croatia branch),HRK,NULL,NULL,NULL,NULL,2017-06-29 04:07:38 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+93,4089,Tesla Motors Netherlands BV (Poland Branch),PLN,NULL,NULL,NULL,NULL,2017-06-29 04:07:38 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+94,4001,Grohmann Engineering GmbH (Germany),EUR,NULL,NULL,NULL,NULL,2018-01-03 04:22:06 +0000,NULL,NULL,Not Available,DE,Europe,1,Germany,EMEA
+95,4002,SYMAX Systemtechnik Sondermaschinenbau G,EUR,NULL,NULL,NULL,NULL,2018-01-03 04:22:06 +0000,NULL,NULL,Not Available,DE,Europe,1,Germany,EMEA
+96,2035,Tesla Services Sdn. Bhd.,MYR,NULL,NULL,NULL,NULL,2017-06-30 14:27:15 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+97,2056,Silevo - China,CNY,NULL,NULL,NULL,NULL,2017-08-09 19:08:58 +0000,NULL,NULL,Not Available,CN,APAC,0,China,Greater China
+98,2081,Tesla Ningbo,CNY,NULL,NULL,NULL,NULL,2017-08-23 19:14:02 +0000,NULL,NULL,Not Available,CN,APAC,0,China,Greater China
+99,3025,Tesla Solar,USD,NULL,NULL,NULL,NULL,2017-08-24 15:48:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+100,2059,Tesla Automobile Sales and Service (Tian,CNY,NULL,NULL,NULL,NULL,2018-01-03 04:22:06 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+101,2084,Tesla Qingdao,CNY,NULL,NULL,NULL,NULL,2017-10-25 04:13:17 +0000,NULL,NULL,Not Available,NA,NULL,NULL,NULL,NULL
+102,2083,Tesla Suzhou,CNY,NULL,NULL,NULL,NULL,2017-11-17 14:19:15 +0000,NULL,NULL,Not Available,CN,APAC,0,China,Greater China
+103,2082,Tesla Zhengzhou,CNY,NULL,NULL,NULL,NULL,2017-11-17 14:19:15 +0000,NULL,NULL,Not Available,CN,APAC,0,China,Greater China
+104,3011,Tesla 2014 Warehouse SPV LLC,USD,NULL,NULL,NULL,NULL,2018-01-03 04:22:06 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10001,2075,Tesla Automobile Sales and Service (Chen,,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,APAC,WW,Global,2,Global,Global
+10002,2076,TESLA AUTOMOBILE SALES AND SERVICE (Shen,,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,APAC,WW,Global,2,Global,Global
+10003,3060,TM International C.V.,,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,NorthAmerica,WW,Global,2,Global,Global
+10004,3070,Tesla Motors Stichting,,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10005,3080,Tesla Motors Exports LLC,,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,NorthAmerica,WW,Global,2,Global,Global
+10008,4079,Tesla Motors Netherlands (USD) B.V.,,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10010,9996, Elimination entity 4081/3000,,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10011,9997,Elimination entity 4081/4080,,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,Elim entity,WW,Global,2,Global,Global
+10012,CHNC,China Consolidation,,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,Ignore,WW,Global,2,Global,Global
+10013,DAT,Company accounts data,,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10014,VC,Virtual,,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10015,WWCO,Worldwide Consolidations,,NULL,NULL,NULL,NULL,2016-02-23 17:24:31 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10021,3051,Grohmann USA Inc. (Arizona),,NULL,NULL,NULL,NULL,2017-03-17 19:13:14 +0000,NULL,NULL,Not Available,US,North America,0,USA,North America
+10024,5010,Tesla Russia LLC,,NULL,NULL,NULL,NULL,2017-04-06 19:05:40 +0000,NULL,NULL,Not Available,RU,Europe,0,Russian Fed.,EMEA
+10026,4077,Tesla Motors Netherlands BV – Abu Dhabi,,NULL,NULL,NULL,NULL,2017-06-11 04:06:06 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10030,4091,Tesla Motors Netherlands BV (Zeebrugge o,,NULL,NULL,NULL,NULL,2017-06-11 04:06:06 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10035,3600,"Allegheny Solar 1, LLC",,NULL,NULL,NULL,NULL,2017-08-18 19:08:50 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10036,3813,Solar Assets,,NULL,NULL,NULL,NULL,2017-08-18 19:08:50 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10037,3601,"Ancon Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-13 19:12:37 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10038,3602,"Ancon Solar II Lessee, LLC",,NULL,NULL,NULL,NULL,2017-09-13 19:12:37 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10039,3603,"Ancon Solar III Lessee, LLC",,NULL,NULL,NULL,NULL,2017-09-13 19:12:37 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10040,3604,"Arpad Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-13 19:12:37 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10041,3605,"Blue Skies Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-13 19:12:37 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10042,3606,"Blue Skies Solar II, LLC",,NULL,NULL,NULL,NULL,2017-09-13 19:12:37 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10043,3607,"Castello Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-13 19:12:37 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10044,3608,"Castello Solar II, LLC",,NULL,NULL,NULL,NULL,2017-09-13 19:12:37 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10045,3609,"Castello Solar III, LLC",,NULL,NULL,NULL,NULL,2017-09-13 19:12:37 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10046,3610,"Chompie Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-13 19:12:37 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10047,3611,"Clydesdale SC Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-13 19:12:37 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10048,3612,"Dom Solar Lessor I, LP",,NULL,NULL,NULL,NULL,2017-09-13 19:12:37 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10049,3613,"Eiger Lease Co, LLC",,NULL,NULL,NULL,NULL,2017-09-13 19:12:37 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10050,3614,"Firehorn Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-13 19:12:37 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10051,3615,"Focalpoint Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-13 19:12:37 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10052,3616,"Harpoon Solar I, LLc",,NULL,NULL,NULL,NULL,2017-09-13 19:12:37 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10053,3617,"Haymarket Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-14 04:10:03 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10054,3618,"Louis Solar II, LLC",,NULL,NULL,NULL,NULL,2017-09-14 04:10:03 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10055,3619,"Louis Solar III, LLC",,NULL,NULL,NULL,NULL,2017-09-14 04:10:03 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10056,3620,"Louis Solar Master Tenant I, LLC",,NULL,NULL,NULL,NULL,2017-09-14 04:10:03 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10057,3621,"Louis Solar Owner I, LLC",,NULL,NULL,NULL,NULL,2017-09-14 04:10:03 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10058,3622,"Mound Solar Master Tenant IX, LLC",,NULL,NULL,NULL,NULL,2017-09-14 04:10:03 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10059,3623,"Mound Solar Master Tenant V, LLC",,NULL,NULL,NULL,NULL,2017-09-14 04:10:03 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10060,3624,"Mound Solar Master Tenant VI, LLC",,NULL,NULL,NULL,NULL,2017-09-14 04:10:03 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10061,3625,"Mound Solar Master Tenant VII, LLC",,NULL,NULL,NULL,NULL,2017-09-14 04:10:03 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10062,3626,"Mound Solar Master Tenant VIII, LLC",,NULL,NULL,NULL,NULL,2017-09-14 04:10:03 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10063,3627,"Mound Solar Owner IX, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10064,3628,"Mound Solar Owner V, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10065,3629,"Mound Solar Owner VI, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10066,3630,"Mound Solar Owner VII, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10067,3631,"Mound Solar Owner VIII, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10068,3632,"Mound Solar Partnership X, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10069,3633,Mound Solar Partnership XI LLC,,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10070,3634,"Mound Solar Partnership XII, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10071,3635,"MS SolarCity 2008, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10072,3636,"Paramount Energy Fund I Lessee, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10073,3637,"Paramount Energy Fund I Lessor, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10074,3638,"Presidio Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10075,3639,"Presidio Solar II, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10076,3640,"Presidio Solar III, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10077,3641,"Pukana La Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10078,3642,"Sequoia Pacific Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10079,3643,"Solar Energy of America 1, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10080,3644,"Solar House I, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10081,3645,"Solar House II, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10082,3646,"Solar House III, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10083,3647,"Solar House IV, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10084,3648,"Solar Integrated Fund I, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10085,3649,"Solar Integrated Fund II, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10086,3650,"Solar Integrated Fund III, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10087,3651,"Solar Integrated Fund IV-A, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10088,3652,"Solar Integrated Fund V, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10089,3653,"Sparrowhawk Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10090,3654,"The Big Green Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10091,3655,"Three Rivers Solar 2, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10092,3656,"Three Rivers Solar 3, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10093,3657,"Three Rivers Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10094,3658,"USB SolarCity Master Tenant IV, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10095,3659,"USB SolarCity Owner IV, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10096,3660,"Visigoth Solar 1, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10097,3700,"Ancon Solar II Lessor, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10098,3701,"Ancon Solar III Lessor, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10099,3702,"Banyan SolarCity Owner 2010, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10100,3703,"Basking Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10101,3704,"Beatrix Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-14 19:13:28 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10102,3705,"Cardinal Blue Solar, LLC",,NULL,NULL,NULL,NULL,2017-09-15 04:10:44 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10103,3706,"Chaparral SREC Borrower, LLC",,NULL,NULL,NULL,NULL,2017-09-15 04:10:44 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10104,3707,"Fontane Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-15 04:10:44 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10105,3708,"FTE Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-15 04:10:44 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10106,3709,"IL Buono Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-15 04:10:44 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10107,3710,"Mako Solar, LLC",,NULL,NULL,NULL,NULL,2017-09-15 04:10:44 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10108,3711,"Megalodon Solar, LLC",,NULL,NULL,NULL,NULL,2017-09-15 04:10:44 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10109,3712,"NBA SolarCity AFB, LLC",,NULL,NULL,NULL,NULL,2017-09-15 04:10:44 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10110,3713,"NBA SolarCity Commercial I, LLC",,NULL,NULL,NULL,NULL,2017-09-15 04:10:44 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10111,3714,"NBA SolarCity Solar Phoenix, LLC",,NULL,NULL,NULL,NULL,2017-09-15 04:10:44 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10112,3715,"Oranje Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10113,3716,"Sequoia SolarCity Owner I, LLC",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10114,3717,"SolarCity Finance Company, LLC",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10115,3718,"SolarCity Finance Holdings, LLC",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10116,3719,"SolarCity FTE Series 1, LLC",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10117,3720,"SolarCity FTE Series 2, LLC",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10118,3721,"SolarCity LMC Series I, LLC",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10119,3722,"SolarCity LMC Series II, LLC",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10120,3723,"SolarCity LMC Series III, LLC",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10121,3724,"SolarCity LMC Series IV, LLC",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10122,3725,"SolarCity LMC Series V, LLC",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10123,3800,"AU Solar 1, LLC",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10124,3801,"AU Solar 2, LLC",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10125,3802,"City UB Solar, LLC",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10126,3803,"Hammerhead Solar, LLC",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10127,3804,Landlord 2008-A LLC,,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10128,3805,Master Tenant 2008-A LLC,,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10129,3806,"Matterhorn Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10130,3807,"Monte Rosa Solar I, LLC",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10131,3808,"SolarStrong, LLC",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10132,3809,"USB SolarCity Master Tenant 2009, LLC",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10133,3810,"USB SolarCity Master Tenant 2009-2010, L",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10134,3811,"USB SolarCity Owner 2009, LLC",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10135,3812,"USB SolarCity Owner 2009-2010, LLC",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10136,3814,Solar Bonds,,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10137,3850,Domino Solar Ltd,,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10138,3851,SERVICIOS DE TECNOLOGÍA Y ADMINISTRACIÓN,,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10139,3852,"ILIOSSON, S.A. de C.V.",,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10140,9993,Iliosson Elimination,,NULL,NULL,NULL,NULL,2017-09-15 19:12:40 +0000,NULL,NULL,Not Available,WW,Global,2,Global,Global
+10141,3661,"Chompie Solar II, LLC",NULL,NULL,NULL,NULL,NULL,2017-10-27 19:14:12 +0000,NULL,NULL,Not Available,NA,NULL,NULL,NULL,NULL
+10142,2055,"Tesla (Beijing) New Energy R&D Co., Ltd",NULL,NULL,NULL,NULL,NULL,2017-12-11 20:50:09 +0000,NULL,NULL,Not Available,NA,NULL,NULL,NULL,NULL
+10143,3021,Canada Leasing LP,NULL,NULL,NULL,NULL,NULL,2017-12-12 19:14:51 +0000,NULL,NULL,Not Available,NA,NULL,NULL,NULL,NULL
+10144,3030,Tesla Puerto Rico LLC,NULL,NULL,NULL,NULL,NULL,2018-01-02 19:21:28 +0000,NULL,NULL,Not Available,NA,NULL,NULL,NULL,NULL
