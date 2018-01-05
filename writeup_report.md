@@ -66,5 +66,8 @@ As a result, I was able to use my model in the simulator and drive the car in au
 
 ## Final Thoughts
 
+Even if the model is doing already well, we could done even better by collecting more data (driving other tracks, or even backwards). The setting in which our car drives itself is here very simple, everything get more difficulat wih obstacles and a moving environement.
+
+Thanks for reading ! 🚘
 
 
