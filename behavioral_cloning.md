@@ -2,7 +2,7 @@
 
 In this project, we will see how convolutional neural networks can help predict steering angles from images. To showcase this, we will simulator to collect data of good driving behavior and then use the images to train our model. The simulator has been developed with Unity by Udacity (Google) and the code for is available [here](https://github.com/udacity/self-driving-car-sim).
 
-You will find the code - using Keras - for this project is in the [IPython Notebook](https://github.com/itismouad/behavioral_cloning/blob/master/Behavioral%20Cloning.ipynb) and a [video](https://github.com/itismouad/behavioral_cloning/blob/master/video.mp4) displaying how our model can allow a car to successfully drive itself around a track without leaving the road drive.
+You will find the code - using Keras - for this project is in the [IPython Notebook](https://github.com/itismouad/behavioral_cloning/blob/master/notebooks/Behavioral%20Cloning.ipynb) and a [video](https://github.com/itismouad/behavioral_cloning/blob/master/videos/video.mp4) displaying how our model can allow a car to successfully drive itself around a track without leaving the road drive.
 
 [//]: # (Image References)
 

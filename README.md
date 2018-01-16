@@ -13,7 +13,7 @@ In this project, we use a deep convolutional neural networks to help predict ste
 
 ![alt text][video_gif] 
 
-You will find the code - using Keras - for this project is in the [IPython Notebook](https://github.com/itismouad/behavioral_cloning/blob/master/Behavioral%20Cloning.ipynb). More details are available by reading the project [notes](https://github.com/itismouad/behavioral_cloning/blob/master/behavioral_cloning.md).
+You will find the code - using Keras - for this project is in the [IPython Notebook](https://github.com/itismouad/behavioral_cloning/blob/master/notebooks/Behavioral%20Cloning.ipynb). More details are available by reading the project [notes](https://github.com/itismouad/behavioral_cloning/blob/master/behavioral_cloning.md).
 
  
 
