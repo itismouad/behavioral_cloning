@@ -14,12 +14,12 @@ from keras.layers.pooling import MaxPooling2D
 
 # Setting up useful paths
 
-project_path = os.path.join(os.environ['HOME'], "sdcnd/behavioral_cloning")
+project_path = ".."
 utlis_path = os.path.join(project_path, "utils")
 data_path = os.path.join(project_path, "data")
+model_path = os.path.join(project_path, "models")
 
 # Loading custom package for data mungling
-
 sys.path.insert(0, utlis_path)
 from data_mungling import *
 
@@ -81,5 +81,5 @@ history_object = model.fit_generator(
 
 # Saving model
 
-model.save(os.path.join(project_path, 'model.h5'))
+model.save(os.path.join(model_path, 'model.h5'))
 
