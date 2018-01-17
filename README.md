@@ -8,14 +8,12 @@
 
 ## Overview
 
-
 In this project, we use a deep convolutional neural networks to help predict steering angles from camera images. To showcase this, we use simulator to collect data of good driving behavior and then use the images to train a model. A video with the footage of the car driving itself in autonomous mode is available in the repository.
 
 ![alt text][video_gif] 
 
 You will find the code - using Keras - for this project is in the [IPython Notebook](https://github.com/itismouad/behavioral_cloning/blob/master/notebooks/Behavioral%20Cloning.ipynb). More details are available by reading the project [notes](https://github.com/itismouad/behavioral_cloning/blob/master/behavioral_cloning.md).
 
- 
 
 ### The final model architecture :
 
